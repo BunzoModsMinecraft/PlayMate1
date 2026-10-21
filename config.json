@@ -51,6 +51,6 @@
     "preset": "ocean",
     "font": "manrope",
     "uiScale": 1.05,
-    "layout": "nunito"
+    "layout": "mosaic"
   }
 }

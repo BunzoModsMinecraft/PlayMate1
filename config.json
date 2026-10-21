@@ -4,11 +4,11 @@
   "ads": {
     "enabled": true,
     "admob": {
-      "appOpen": "ca-app-pub-8442659997090063/8969288328",
-      "banner": "ca-app-pub-8442659997090063/5565315653",
-      "interstitial": "ca-app-pub-8442659997090063/5076118659",
-      "rewarded": "ca-app-pub-8442659997090063/1282369998",
-      "native": "ca-app-pub-8442659997090063/1306420725"
+      "appOpen": "ca-app-pub-8442659997090063/8934806334",
+      "banner": "ca-app-pub-8442659997090063/3572914429",
+      "interstitial": "ca-app-pub-8442659997090063/8499692062",
+      "rewarded": "ca-app-pub-8442659997090063/7186610393",
+      "native": "ca-app-pub-8442659997090063/4560447059"
     },
     "levelPlay": {
       "enabled": true,

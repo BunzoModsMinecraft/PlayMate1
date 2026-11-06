@@ -1,4 +1,3 @@
-
 {
   "schemaVersion": 1,
   "ads": {
@@ -18,16 +17,16 @@
       "rewarded": "8kqkct3w9gkmtn6n"
     },
     "frequency": {
-     "interstitialEveryNBreaks": 2,
+      "interstitialEveryNBreaks": 2,
       "interstitialCooldownSeconds": 20,
       "interstitialMaxPerSession": 50,
-      "noInterstitialFirstSeconds": 20,
-      "fullscreenGapSeconds": 20,
+      "noInterstitialFirstSeconds": 5,
+      "fullscreenGapSeconds": 10,
       "appOpenCooldownSeconds": 120,
       "appOpenMaxPerSession": 50,
       "appOpenMinBackgroundSeconds": 30,
       "appOpenOnSplash": true,
-      "appOpenSkipFirstLaunch": true,
+      "appOpenSkipFirstLaunch": false,
       "nativeEveryMin": 3,
       "nativeEveryMax": 5,
       "importGateMin": 2,
